@@ -8,5 +8,3 @@ The code comments are in spanish but the pdf documentation is in english.
 Este es mi primer trabajo practico y espero que os guste. Consiste en un análisis en r de unas bases de datos. Todo el proceso esta documentado en el archivo pdf junto a los resultados y recomendaciones.
 
 Los comentarios del código están en español pero la documentación del pdf está en ingles.
--a
-- a
